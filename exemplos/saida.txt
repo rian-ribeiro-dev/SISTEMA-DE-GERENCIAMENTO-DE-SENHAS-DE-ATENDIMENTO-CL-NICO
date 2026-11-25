@@ -1,0 +1,319 @@
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+--- Cadastro de paciente ---
+Genero (F/M): Idade: Possui necessidade especial? (1 - Sim / 0 - Nao): Possui condicao de obesidade? (1 - Sim / 0 - Nao): 
+Senha emitida: N001 (Normal)
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+--- Cadastro de paciente ---
+Genero (F/M): Idade: Esta gestante? (1 - Sim / 0 - Nao): Esta lactante? (1 - Sim / 0 - Nao): Possui necessidade especial? (1 - Sim / 0 - Nao): Possui condicao de obesidade? (1 - Sim / 0 - Nao): 
+Senha emitida: P001 (Preferencial)
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+--- Cadastro de paciente ---
+Genero (F/M): Idade: Possui necessidade especial? (1 - Sim / 0 - Nao): Possui condicao de obesidade? (1 - Sim / 0 - Nao): 
+Senha emitida: U001 (Urgente)
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+--- Cadastro de paciente ---
+Genero (F/M): Idade: Esta gestante? (1 - Sim / 0 - Nao): Esta lactante? (1 - Sim / 0 - Nao): Possui necessidade especial? (1 - Sim / 0 - Nao): Possui condicao de obesidade? (1 - Sim / 0 - Nao): 
+Senha emitida: P002 (Preferencial)
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+--- Cadastro de paciente ---
+Genero (F/M): Idade: Possui necessidade especial? (1 - Sim / 0 - Nao): Possui condicao de obesidade? (1 - Sim / 0 - Nao): 
+Senha emitida: N002 (Normal)
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+--- Cadastro de paciente ---
+Genero (F/M): Idade: Esta gestante? (1 - Sim / 0 - Nao): Esta lactante? (1 - Sim / 0 - Nao): Possui necessidade especial? (1 - Sim / 0 - Nao): Possui condicao de obesidade? (1 - Sim / 0 - Nao): 
+Senha emitida: U002 (Urgente)
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+=============== PAINEL ===============
+Senha chamada: ---
+
+Proximas senhas:
+  1) U001 (Urgente)
+  2) U002 (Urgente)
+  3) P001 (Preferencial)
+  4) P002 (Preferencial)
+  5) N001 (Normal)
+
+Aguardando por categoria:
+  Urgente: 2
+  Preferencial: 2
+  Normal: 2
+
+Emitidas: 6 | Atendidas: 0
+======================================
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Chamando senha U001 - Urgente
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Ja existe um atendimento em andamento (U001). Finalize antes de chamar outro.
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Atendimento da senha U001 finalizado.
+
+Proxima senha: U002 (Urgente)
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Chamando senha U002 - Urgente
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Atendimento da senha U002 finalizado.
+
+Proxima senha: P001 (Preferencial)
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Chamando senha P001 - Preferencial
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+=============== PAINEL ===============
+Senha chamada: P001 (Preferencial)
+
+Proximas senhas:
+  1) P002 (Preferencial)
+  2) N001 (Normal)
+  3) N002 (Normal)
+
+Aguardando por categoria:
+  Urgente: 0
+  Preferencial: 1
+  Normal: 2
+
+Emitidas: 6 | Atendidas: 2
+======================================
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Atendimento da senha P001 finalizado.
+
+Proxima senha: P002 (Preferencial)
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Chamando senha P002 - Preferencial
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Atendimento da senha P002 finalizado.
+
+Proxima senha: N001 (Normal)
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Chamando senha N001 - Normal
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Atendimento da senha N001 finalizado.
+
+Proxima senha: N002 (Normal)
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Chamando senha N002 - Normal
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Atendimento da senha N002 finalizado.
+
+Nao ha ninguem na fila.
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+=============== PAINEL ===============
+Senha chamada: ---
+
+Proximas senhas:
+  Nenhuma senha aguardando.
+
+Aguardando por categoria:
+  Urgente: 0
+  Preferencial: 0
+  Normal: 0
+
+Emitidas: 6 | Atendidas: 6
+======================================
+
+===== CLINICA - SENHAS DE ATENDIMENTO =====
+1 - Cadastrar paciente (emitir senha)
+2 - Consultar proxima senha
+3 - Chamar paciente
+4 - Ver senha em atendimento
+5 - Finalizar atendimento
+6 - Painel de chamada
+0 - Sair
+Opcao: 
+Encerrando...
